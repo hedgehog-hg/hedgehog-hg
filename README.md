@@ -1,5 +1,5 @@
 ### Welcome to my Github 👋
-Hi there! I'm FrontEnd Developer using javascript/typescript/react.
+Hi there! I'm FrontEnd Developer.
 <p>
   How to reach me...  
   <a href="mailto:debbiie952@gmail.com">
