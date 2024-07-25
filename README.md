@@ -1,7 +1,8 @@
 ### Welcome to my Github 👋
 Hi there! I'm FrontEnd Developer.
 <p>
-  How to reach me...  
+  I'm looking for job now. 
+  How to reach me...
   <a href="mailto:debbiie952@gmail.com">
     <img alt="debbiie952@gmail.com" src="https://img.shields.io/badge/debbiie952@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
