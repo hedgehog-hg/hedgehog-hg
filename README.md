@@ -1,14 +1,15 @@
 ### Welcome to my Github 👋
-Hi there! I'm FrontEnd Developer.
+Hi there! I'm junior FrontEnd Developer.
 <p>
   I'm looking for job now. 
-  How to reach me...
-  <a href="mailto:debbiie952@gmail.com">
+  You can see my <a href="https://romantic-taxicab-0df.notion.site/c591d15d9bc24576acc0c8a574a56fc3">
+    <img alt="resume" src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white" />
+  </a> !
+  
+  If you want to contact to me, please mail to me! <a href="mailto:debbiie952@gmail.com">
     <img alt="debbiie952@gmail.com" src="https://img.shields.io/badge/debbiie952@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://romantic-taxicab-0df.notion.site/Donghee-s-study-note-bb6dfb821999406f9c2655d624ef0d8c?pvs=4">
-    <img alt="my notion blog" src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white" />
-  </a>
+  
 </p>
 
 <h3> Skills </h3>
